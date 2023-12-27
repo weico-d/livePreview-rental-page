@@ -1,15 +1,11 @@
  <img src="https://iili.io/JRMwWnS.png" style="display: block;border-radius: 50%;width: 100px;margin: 10px auto;" />
 
-    <h1>ReactNative UI TemplateKit WeddingDress Booking Rental Reservation</h1>
+### ReactNative UI TemplateKit WeddingDress Booking Rental Reservation
 
-    Important!
-    This project is a TEMPLATE. Not backend project. Built on expo work flow for React Native.
+#### Important!
 
-    <hr>
+This project is a TEMPLATE. Not backend project. Built on expo work flow for React Native.
 
-
-
-    <p>
 
         Rental booking UI is a set of ReactNative UI suite suitable for clothing rental, wedding dress rental,stage
         props rental, performance clothing rental, house rental, hotel and other projects with booking functions. You
@@ -20,31 +16,29 @@
         ReactNative, and supports EXPO hosting and packaging, so you don't have to program to preview the finished
         product.
 
-    </p>
 
 
-    <img style="width: 100%;display: block;" src="https://iili.io/JRMwq6F.png"
-        alt="omiBeaver Rental - mobile React Native travel app template ">
-
-
-    <br>
+<img style="width: 100%;display: block;" src="https://iili.io/JRMwq6F.png"
+        alt="omiBeaver Rental - mobile React Native travel app template "/>
 
 
 
-    <img style="width: 100%;display:block;" src="https://iili.io/JRaIx6l.png"
+
+
+<img style="width: 100%;display:block;" src="https://iili.io/JRaIx6l.png"
         alt="omiBeaver Rental - mobile React Native travel app template-2" />
-    <br>
-    <img style="width: 100%;display: block;" src="https://iili.io/JRaIoG4.png"
+
+<img style="width: 100%;display: block;" src="https://iili.io/JRaIoG4.png"
         alt="omiBeaver Rental - mobile React Native travel app template-3" />
 
 
-    <pre>
 
-        Custom Colors, Hook the development , Expo hosted flow , IOS and Android , The UI suite , ReactNavigation6 ,
-        ReactNative0.69 , Expo47 <br>
+
+Custom Colors, Hook the development , Expo hosted flow , IOS and Android , The UI suite , ReactNavigation6 ,
+ReactNative0.69 , Expo47
     
     
-       <h3>1.Why You Should Buy omiBeaver Rental Reservation – mobile React Native travel app template</h3><br>
+#### 1.Why You Should Buy omiBeaver Rental Reservation – mobile React Native travel app template
     
         Save more time and cost for develop UI/UX and business ideas
     
@@ -73,7 +67,7 @@
         1. Is there documentation for guiding how to use the source code ?
         Documentation and source code are included in the download package. You will get all in one.
     
-        <h3>2. Does it support backend end or connect any APIs ?</h3>
+#### 2. Does it support backend end or connect any APIs ?
         No, It doesn. It just included a template only. We do not connect any APIs. You have to develop by yourself for
         matching
         with your biz.
@@ -94,12 +88,12 @@
         update. You will get the notified email for a new version update on stores.
     
     
-       <h3>Rental & Booking Template First release</h3>
+#### Rental & Booking Template First release
         Please note: Rental is a UI suite, we do not provide back-end API, the in-app data is used for simulation
         demonstration,
         if you need to use your own product data, you still need to connect the data interface, you can contact us if you
         have
         any questions, we are happy to answer for you, including but not limited to Rental suite.
     
-    </pre>
+
 
